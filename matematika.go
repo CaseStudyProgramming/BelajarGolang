@@ -10,4 +10,9 @@ func main() {
 
 	var hasil = 10 + 10
 	fmt.Println(hasil)
+
+	/// penambahan diri sendiri berlaku pada operasi matematika lainnya
+	var z = 20
+	z += 20
+	fmt.Println(z)
 }
