@@ -6,10 +6,11 @@ func main() {
 	const namaAwal string = "david"
 
 	const namaAkhir = "cristian"
+	const NamaTengah = "yohoo"
 
 	/// tanpa value constant const tidak dikomplain
 
-	/// tidak bisa diubah akan terjadi error
+	/// ketika di run tidak bisa diubah akan terjadi error
 
 	namaAwal = "yoza"
 	namaAkhir = "hatsune"
@@ -21,4 +22,5 @@ func main() {
 
 	fmt.Println(awal)
 	fmt.Println(akhir)
+	fmt.Println(NamaTengah)
 }
