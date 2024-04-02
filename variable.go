@@ -8,7 +8,7 @@ func main() {
 	nama = "david"
 	fmt.Println(nama)
 
-	var NamaKamu = "davidcr"
+	var NamaKamu = "davidcrist"
 	fmt.Println(NamaKamu)
 
 	var age = 18
